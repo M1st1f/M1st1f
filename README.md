@@ -1,1 +1,1 @@
-# M1st1f
+print("you suck ok")
