@@ -1,1 +1,1 @@
-print("you suck ok")
+just vibing
